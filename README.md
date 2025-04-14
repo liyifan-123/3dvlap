@@ -54,13 +54,12 @@ python -m main --mode eval --config <config_path> --exp <exp_name>
 
 If you find the code useful please consider citing our [paper](https://arxiv.org/abs/2404.02527):
 ```
-@misc{wang2024weaklysupervised,
-      title={Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling}, 
-      author={Xu Wang and Yifan Li and Qiudan Zhang and Wenhui Wu and Mark Junjie Li and Jianmin Jinag},
-      year={2024},
-      eprint={2404.02527},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2024weakly,
+  title={Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling},
+  author={Wang, Xu and Li, Yifan and Zhang, Qiudan and Wu, Wenhui and Li, Mark Junjie and Ma, Lin and Jiang, Jianmin},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
