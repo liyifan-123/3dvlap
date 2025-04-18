@@ -42,6 +42,11 @@ data
       
 ```
 
+# Weights
+You can download pretrained weights in:
+Link: https://pan.baidu.com/s/11pEHmtKPu-pqO3RlR3MlyQ?pwd=x41c
+Code: x41c 
+
 # Run Code
 ```bash
 # Train
